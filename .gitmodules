@@ -1,0 +1,4 @@
+[submodule "thegamershollow/public"]
+	path = thegamershollow/public
+	url = https://github.com/thegaminghollow/thegaminghollow.github.io.git
+	branch = main
